@@ -1,0 +1,18 @@
+/* formatting for the body*/
+body
+{
+text-align: justify;
+font-family: "Dancing Script",Gabriela,Oregano,fantasy;
+font-size: 14pt;
+line-height: 14pt;
+background-color: black/*rgb(255,192,203)*/;
+} 
+
+/*makes the text white*/
+h2,h1,h3,p,ul,li
+{
+	color:white
+}
+
+
+
